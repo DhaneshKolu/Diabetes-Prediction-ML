@@ -33,9 +33,6 @@ Loss: **binary_crossentropy**
 Optimizer: **Adam**
 
 ## Results
-- Accuracy: **~X%**  
-- Visualized ROC curve  
-- Training/Validation loss curves  
+- Accuracy: **75.3%**
+- Used HeatMap
 
-## ▶ How to Run
-# Diabetes-Prediction-ML
